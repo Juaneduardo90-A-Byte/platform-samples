@@ -9,7 +9,7 @@ GEM
     octokit (3.0.0)
       sawyer (~> 0.5.3)
     rack (1.6.11)
-    rack-protection (1.5.5)
+    rack-protection (1.5.2)
       rack
     sawyer (0.5.4)
       addressable (~> 2.3.5)
